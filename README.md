@@ -87,7 +87,7 @@ Run the compiled binary:
 
 ## Future Plans
 
-- Add support for **AVL Trees** and **Red-Black Trees**.
+- Add support for **Interval trees** and **Red-Black Trees**.
 - Implement additional traversal algorithms (e.g., level-order).
 - Extend functionality to support generic data types with templates.
 - Optimize the search and insertion operations.
