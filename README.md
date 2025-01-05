@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a C++ implementation of a **Binary Search Tree (BST)**, designed as a foundational library for tree-based data structures. The project is part of a university coursework and serves as a base for future expansions, including other types of trees (e.g., AVL trees, Red-Black trees, etc.).
+This project is a C++ implementation of a **Binary Search Tree (BST)**, designed as a foundational library for tree-based data structures. The project is part of a university coursework and serves as a base for future expansions, including other types of trees (e.g., Interval trees, Red-Black trees, etc.).
 
 The library consists of two main files:
 
